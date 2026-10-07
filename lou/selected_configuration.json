@@ -1,0 +1,11 @@
+{
+  "names": [
+    "CAT_engineered_5",
+    "GP_Matern_eng"
+  ],
+  "weights": [
+    0.5,
+    0.5
+  ],
+  "MSE": 23.05377997969436
+}
